@@ -1,0 +1,13 @@
+AB	index	site1	site2	site3	site4	site5	site6
+AMP	Resistants	38	38	29	24	28	32
+AMP	sensitive	12	12	21	26	22	18
+OTC	Resistants	37	36	18	39	40	18
+OTC	sensitive	13	14	32	11	10	32
+CHL	Resistants	26	23	14	40	35	28
+CHL	sensitive	24	27	36	10	15	22
+NAL	Resistants	19	41	24	40	38	28
+NAL	sensitive	31	9	26	10	12	22
+CEF	Resistants	34	22	22	41	39	29
+CEF	sensitive	16	28	28	9	11	21
+SUL	Resistants	34	38	37	31	39	37
+SUL	sensitive	16	12	13	19	11	13

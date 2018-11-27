@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: mbljiwan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 578385
+bundleId: 1708224
+url: https://mbljiwan.shinyapps.io/shiny/
+when: 1542608440.88253
